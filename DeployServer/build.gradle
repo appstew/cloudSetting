@@ -4,9 +4,11 @@ plugins {
 	id 'java'
 }
 
-group = 'com.codestates.seb'
-version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '11'
+
+			group = 'com.codestates.seb'
+			version = '0.0.1-SNAPSHOT'
+			sourceCompatibility = '11'
+
 
 configurations {
 	compileOnly {
